@@ -1,4 +1,4 @@
-👋 Hello! I'm Akshat Girdhar, an Electronics and Communication Engineer with a passion for software development. 🚀
+👋 Hello! I'm Akshat Girdhar, an Electronics and Communication Engineer passionate about software development. 🚀
 
 🔌 My journey began in electronics, where I honed my problem-solving skills and an innate curiosity for how things work. As I ventured into software development, I discovered a whole new universe of possibilities.
 
