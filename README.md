@@ -14,4 +14,3 @@
 
 🌟 My goal is to continually learn, grow, and collaborate on innovative projects that make a meaningful impact. Let's connect and explore how we can create something extraordinary together!
 
-[![AkshatGirdhar5's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AkshatGirdhar5&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
