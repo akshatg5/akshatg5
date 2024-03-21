@@ -20,7 +20,6 @@ I'm an Electronics and Communication Engineer turned software developer, always 
 |                 | MongoDB          | NoSQL database                                   |
 |                 | PostgreSQL       | Open-source relational database system           |
 |                 | Flask            | Micro web framework for Python                   |
-| Deployment      | Basic Deployment | Experience deploying on Vercel and Netlify       |
 
 📈 Beyond coding, I have a passion for finance and economics, bringing intermediate-level knowledge to the table. I aim to combine this expertise with my coding skills to create data-driven solutions that empower decision-makers and drive business success.
 
