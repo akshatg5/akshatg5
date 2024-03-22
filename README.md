@@ -12,14 +12,19 @@ I'm an Electronics and Communication Engineer turned software developer, always 
 
 💻 I'm a Full Stack Developer with expertise in:
 
-| Category        | Technology       | Description                                      |
-|-----------------|------------------|--------------------------------------------------|
-| Frontend        | ReactJS          | JavaScript library for building user interfaces  |
-|                 | TailwindCSS      | Utility-first CSS framework                      |
-| Backend         | ExpressJS        | Web application framework for Node.js            |
-|                 | MongoDB          | NoSQL database                                   |
-|                 | PostgreSQL       | Open-source relational database system           |
-|                 | Flask            | Micro web framework for Python                   |
+| Category        | Technology       | Description                                      | Skill Level (out of 5) |
+|-----------------|------------------|--------------------------------------------------|------------------------|
+| Frontend        | ReactJS          | JavaScript library for building user interfaces  | ⭐⭐⭐                |
+|                 | TailwindCSS      | Utility-first CSS framework                      | ⭐⭐⭐                |
+| Backend         | ExpressJS        | Web application framework for Node.js            | ⭐⭐⭐                |
+|                 | MongoDB          | NoSQL database                                   | ⭐⭐                   |
+|                 | PostgreSQL       | Open-source relational database system           | ⭐⭐                  |
+|                 | Flask            | Micro web framework for Python                   | ⭐⭐⭐                |
+| Python          | Numpy            | Numerical computing library for Python           | ⭐⭐                   |
+|                 | Pandas           | Data manipulation and analysis library for Python| ⭐⭐⭐                |
+|                 | Matplotlib       | Plotting library for Python                      | ⭐⭐⭐                |
+|                 | Seaborn          | Data visualization library for Python            | ⭐⭐⭐                |
+|                 | Scikit-learn     | Machine learning library for Python              | ⭐⭐⭐                |
 
 📈 Beyond coding, I have a passion for finance and economics, bringing intermediate-level knowledge to the table. I aim to combine this expertise with my coding skills to create data-driven solutions that empower decision-makers and drive business success.
 
