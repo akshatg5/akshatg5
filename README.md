@@ -17,6 +17,7 @@ I'm an Electronics and Communication Engineer turned software developer, always 
 | Frontend(Web Dev)        | ReactJS          | JavaScript library for building user interfaces  | ⭐⭐⭐                |
 |                 | TailwindCSS      | Utility-first CSS framework                      | ⭐⭐⭐                |
 | Backend(Web Dev)         | ExpressJS        | Web application framework for Node.js            | ⭐⭐⭐                |
+|                 | NodeJS          | Cross-platform, open-source JavaScript runtime environment | ⭐⭐⭐                   |
 |                 | MongoDB          | NoSQL database                                   | ⭐⭐                   |
 |                 | PostgreSQL       | Open-source relational database system           | ⭐⭐                  |
 |                 | Flask            | Micro web framework for Python                   | ⭐⭐⭐                |
