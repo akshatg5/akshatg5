@@ -14,9 +14,9 @@ I'm an Electronics and Communication Engineer turned software developer, always 
 
 | Category        | Technology       | Description                                      | Skill Level (out of 5) |
 |-----------------|------------------|--------------------------------------------------|------------------------|
-| Frontend        | ReactJS          | JavaScript library for building user interfaces  | ⭐⭐⭐                |
+| Frontend(Web Dev)        | ReactJS          | JavaScript library for building user interfaces  | ⭐⭐⭐                |
 |                 | TailwindCSS      | Utility-first CSS framework                      | ⭐⭐⭐                |
-| Backend         | ExpressJS        | Web application framework for Node.js            | ⭐⭐⭐                |
+| Backend(Web Dev)         | ExpressJS        | Web application framework for Node.js            | ⭐⭐⭐                |
 |                 | MongoDB          | NoSQL database                                   | ⭐⭐                   |
 |                 | PostgreSQL       | Open-source relational database system           | ⭐⭐                  |
 |                 | Flask            | Micro web framework for Python                   | ⭐⭐⭐                |
