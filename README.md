@@ -1,12 +1,13 @@
 <p align="center">
-    
-<a href="https://github.com/drkostas">
+  <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Akshat+Girdhar;Full Stack Developer+%7C+Exploring FinTech;" alt="Typing SVG" />
-</a>
+  </a>
+</p>
 
-<a href="https://github.com/drkostas">
+<p align="center">
+  <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=akshatg5&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+  </a>
 </p>
 
 <table>
@@ -15,13 +16,11 @@
 
 |Title | Technologies|
 |--|--|
-| [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=nodedotjs)||
-| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=nodedotjs)|
+| [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)|
+| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs)|
 
-
-
-</td></tr> </table>
-
+</td></tr>
+</table>
 
 ## Let's Connect!
 
@@ -38,4 +37,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
