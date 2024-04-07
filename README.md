@@ -1,36 +1,25 @@
-# 👋 Hey there, I'm Akshat Girdhar! 
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cool Image" />
-</p>
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Akshat+Girdhar;Full Stack Developer+%7C+Exploring FinTech;" alt="Typing SVG" />
+</a>
 
-I'm an Electronics and Communication Engineer turned software developer, always seeking new challenges and opportunities to learn and grow. 🚀
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=akshatg5&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-## About Me
+<table>
+<tr><th>Projects</th></tr>
+<tr><td>
 
-🔌 My journey began in electronics, where I honed my problem-solving skills and developed an innate curiosity for how things work. As I transitioned into software development, I discovered a whole new universe of possibilities.
-
-💻 I'm a Full Stack Developer with expertise in:
-| Category           | Technology        | Description                                                   |
-|-------------------|--------------------|----------------------------------------------------------------|
-| Frontend (Web Dev)  | ReactJS             | JavaScript library for building user interfaces                |
-|                    | TailwindCSS        | Utility-first CSS framework                                  |
-| Backend (Web Dev)   | ExpressJS          | Web application framework for Node.js                        |
-|                    | NodeJS             | Cross-platform, open-source JavaScript runtime environment      |
-|                    | MongoDB           | NoSQL database                                                 |
-|                    | PostgreSQL        | Open-source relational database system                         |
-|                    | Flask              | Micro web framework for Python                                  |
-|                    | Cloudflare         | Content delivery network services provider                    |
-| Python              | Numpy              | Numerical computing library for Python                          |
-|                    | Pandas             | Data manipulation and analysis library for Python               |
-|                    | Matplotlib         | Plotting library for Python                                     |
-|                    | Seaborn            | Data visualization library for Python                           |
-|                    | Scikit-learn       | Machine learning library for Python                            |
+|Title | Technologies|
+|--|--|
+| [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=nodedotjs)||
+| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=react) ![NodeJS](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=nodedotjs)|
 
 
-📈 Beyond coding, I have a passion for finance and economics, bringing intermediate-level knowledge to the table. I aim to combine this expertise with my coding skills to create data-driven solutions that empower decision-makers and drive business success.
 
-⚽ When I'm not coding, you can find me cheering for my favorite sports teams. I see parallels between sports strategy and problem-solving in software development, and I'm always up for a good game or discussion about the latest sports trends.
+</td></tr> </table>
+
 
 ## Let's Connect!
 
@@ -47,4 +36,4 @@ I'm an Electronics and Communication Engineer turned software developer, always 
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-In the table make the table a little smalled but make the section scrollable such that only 5 rows can be seen from the table but the user can then scroll easily, the top row containing row titles should be fixed
+
