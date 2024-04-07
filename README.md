@@ -2,13 +2,13 @@
   <a href="https://github.com/drkostas">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Akshat+Girdhar;Full Stack Developer+%7C+Exploring FinTech;" alt="Typing SVG" />
   </a>
-</p>
 
-<p align="center">
+
+
   <a href="https://github.com/drkostas">
     <img src="https://github-stats-alpha.vercel.app/api?username=akshatg5&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
-</p>
+
 
 <table>
 <tr><th>Projects</th></tr>
@@ -21,7 +21,7 @@
 
 </td></tr>
 </table>
-
+</p>
 ## Let's Connect!
 
 🌟 My goal is to continually learn, grow, and collaborate on innovative projects that make a meaningful impact. Let's connect and explore how we can create something extraordinary together!
