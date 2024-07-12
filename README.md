@@ -16,8 +16,8 @@
 
 |Title | Technologies|
 |--|--|
-| [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)|
-| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)|
+| [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)|
+| [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)|
 | [Pen Point](https://penpoint.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Hono](https://img.shields.io/badge/Hono-black?style=flat-square&logo=hono) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)||
 
 </td></tr>
