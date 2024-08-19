@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/drkostas">
+  <a href="https://github.com/akshatg5">
     <img src="https://readme-typing-svg.demolab.com?font=Arial&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Akshat+Girdhar;Full Stack Developer+%7C+Exploring FinTech;" alt="Typing SVG" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 | [Cash Flow](https://cash-flow-alpha.vercel.app/) | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)|
 | [Todo App](https://github.com/akshatg5/ToDo-App) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)|
 | [Pen Point](https://penpoint.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Hono](https://img.shields.io/badge/Hono-black?style=flat-square&logo=hono) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)||
-| [MediaByte](https://penpoint.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Cloudinary](https://img.shields.io/badge/cloudinary-black?style=flat-square&logo=cloudinary)||
+| [MediaByte](https://mediabyte.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Cloudinary](https://img.shields.io/badge/cloudinary-black?style=flat-square&logo=cloudinary)||
 
 </td></tr>
 </table>
