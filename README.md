@@ -38,4 +38,7 @@
   <a href="https://www.linkedin.com/in/akshat-girdhar-56a848206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007785?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://medium.com/@akshatgirdhar05" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-007785?style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
+  </a>
 </p>
