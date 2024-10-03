@@ -21,6 +21,7 @@
 | [Pen Point](https://penpoint.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Hono](https://img.shields.io/badge/Hono-black?style=flat-square&logo=hono) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)||
 | [MediaByte](https://mediabyte.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Cloudinary](https://img.shields.io/badge/cloudinary-black?style=flat-square&logo=cloudinary) ![Gemini](https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google)||
 | [VoteTube](https://votetube.vercel.app/) |  ![NextJs](https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql)||
+| [LiteKite](https://litekite.vercel.app/) |  ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)||
 </td></tr>
 </table>
 
