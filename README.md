@@ -70,6 +70,13 @@
             <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python">
           </td>
         </tr>
+        <tr>
+          <td><a href="https://leet-rank.vercel.app/">Leet-Rank</a></td>
+          <td>
+            <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel" alt="React">
+            <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL">
+          </td>
+        </tr>
       </tbody>
     </table>
   </div>
