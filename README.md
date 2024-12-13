@@ -68,6 +68,7 @@
             <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask" alt="Flask">
             <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL">
             <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python" alt="Python">
+            <img src="https://img.shields.io/badge/Gemini-black?style=flat-square&logo=google" alt="Gemini">
           </td>
         </tr>
         <tr>
