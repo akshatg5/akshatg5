@@ -72,7 +72,14 @@
           </td>
         </tr>
         <tr>
-          <td><a href="https://leet-rank.vercel.app/">Leet-Rank</a></td>
+          <td><a href="https://learn-lens.vercel.app/">Leet-Rank</a></td>
+          <td>
+            <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel" alt="React">
+            <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL">
+          </td>
+        </tr>
+        <tr>
+          <td><a href="https://leet-rank.vercel.app/">Learn-Lens</a></td>
           <td>
             <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=vercel" alt="React">
             <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql" alt="PostgreSQL">
