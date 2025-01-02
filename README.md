@@ -92,6 +92,7 @@
 
 ## Let's Connect!
 🌟 My goal is to continually learn, grow, and collaborate on innovative projects that make a meaningful impact. Let's connect and explore how we can create something extraordinary together!
+Working on full-stack web apps, tinkering with machine learning, trying my hands on hardware related stuff too!
 <p align="center">
   <a href="mailto:akshatgirdhar05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email" />
